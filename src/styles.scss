@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(289.6deg, #0C0C0C 0%, #2C4550 98.22%);
+  color: white;
+;
+}

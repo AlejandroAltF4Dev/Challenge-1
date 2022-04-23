@@ -1,0 +1,7 @@
+.sidebar {
+  @apply h-screen flex flex-col justify-between items-center p-5 w-[161px] border-r border-r-white hidden md:flex
+}
+
+.bottom-section {
+  background: radial-gradient(100% 2631.09% at 0% 0%, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.558) 100%);
+}
