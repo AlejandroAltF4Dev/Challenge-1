@@ -1,5 +1,5 @@
 .sidebar {
-  @apply h-screen flex flex-col justify-between items-center p-5 w-[161px] border-r border-r-white hidden lg:flex
+  @apply h-screen flex flex-col justify-between items-center p-5 border-r border-r-white;
 }
 
 .bottom-section {
